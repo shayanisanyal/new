@@ -1,0 +1,44 @@
+<html>
+<head>
+
+<title>
+innoraft Softwares
+</title>
+<link href="normalize.css" rel="stylesheet" type="text/css" >
+<link href="main.css" rel="stylesheet" type="text/css" >
+ <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body bgcolor="#EEF3FA">
+<div class="mainframe">
+	<div class="firstframe">
+		<div class="firstframefirstdivision"> <h1><b> innoraft Softwares</b></h1></div>
+		
+		<div class="firstframeseconddivision">
+		<span class="firstmenutab menutab" ><img src="Capture.png"/><span class="class1">Technologies</span></span>
+		<span class="secondmenutab menutab"><img src="Capture1.png"/><span class="class1">Consulting</span></span>
+		<span class="thirdmenutab menutab"><img src="Capture3.png"/><span class="class1">Company</span></span>
+		<span class="forthmenutab menutab"><img src="Capture4.png"/><span class="class1">Contact Us</span></span>
+		
+		</div>
+		
+	</div>
+	<div class="secondframe">
+	</div>
+	<div class="thirdframe">
+	<span class="secondmenutabone menutabtwo"><img class="image" src="Capture5.png"/></span>
+	<span class="secondmenutabtwo menutabtwo"><img  class="image" src="Capture6.png"/></span>
+	<span class="secondmenutabthree menutabtwo"><img  class="image" src="Capture7.png"/></span>
+	<span class="secondmenutabfour menutabtwo"><img  class="image" src="Capture8.png"/></span>
+	<span class="secondmenutabfive menutabtwo"><img  class="image1" src="Capture9.png"/></span>
+	<span class="secondmenutabsix menutabtwo"><img  class="image" src="Capture10.png"/></span>
+	</div>
+	<div class="forthframe">
+	<div class="lastpartdivisionone"></div>
+	<div class="lastpartdivisiontwo"><img class="image2" src="Capture5.png"/></div>
+	<div class="lastpartdivisionthree"><img class="image2" src="Capture11.png"/></div>
+	</div>
+</div>
+</body>
+</html>
